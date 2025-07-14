@@ -51,7 +51,7 @@ const NavBar = () => {
                                         <button className="flex items-center bg-[#FFE492] hover:bg-blue-700 text-[#043873] font-bold px-4 py-2 rounded-[10px] transition">
                                                 Login
                                         </button>
-                                        <button className="flex items-center bg-[#4F9CF9] text-[#FFFFFF] font-bold px-4 py-2 rounded-[10px] transition border border-black">
+                                        <button className="flex items-center bg-[#4F9CF9] text-[#FFFFFF] font-bold px-4 py-2 rounded-[10px] transition ">
                                                 Try Whitepace free <FaArrowRight className="ml-2" />
                                         </button>
                                 </div>
@@ -79,7 +79,7 @@ const NavBar = () => {
                                                 <button className="bg-[#FFE492] text-[#FFFFFF] font-bold px-4 py-2 rounded-[10px] transition ">
                                                         Login
                                                 </button>
-                                                <button className="flex items-center justify-center bg-blue-600 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded-full transition">
+                                                <button className="flex items-center justify-center bg-blue-600 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded-[10px] transition">
                                                         Try whitepace free <FaArrowRight className="ml-2" />
                                                 </button>
                                         </div>
