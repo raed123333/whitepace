@@ -24,3 +24,14 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* ✅ custom media query for 1152px */
+@media (min-width: 1152px) {
+  .show-at-1152 {
+    display: flex !important;
+  }
+
+  .hide-at-1152 {
+    display: none !important;
+  }
+}
