@@ -1,4 +1,5 @@
 import Hero from "@/components/Hero";
+import LandingVFour from "@/components/LandingVFour";
 import LandingVOne from "@/components/LandingVOne";
 import LandingVThree from "@/components/LandingVThree";
 import LandingVTwo from "@/components/LandingVTwo";
@@ -16,6 +17,7 @@ export default function Home() {
       <LandingVOne />
       <LandingVTwo />
       <LandingVThree />
+      <LandingVFour />
 
 
 
