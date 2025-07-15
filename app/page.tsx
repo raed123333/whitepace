@@ -1,5 +1,6 @@
 import Hero from "@/components/Hero";
 import LandingVOne from "@/components/LandingVOne";
+import LandingVThree from "@/components/LandingVThree";
 import LandingVTwo from "@/components/LandingVTwo";
 import NavBar from "@/components/NavBar";
 import WorkManagement from "@/components/WorkManagement";
@@ -14,6 +15,7 @@ export default function Home() {
       <WorkManagementTow />
       <LandingVOne />
       <LandingVTwo />
+      <LandingVThree />
 
 
 
