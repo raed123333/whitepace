@@ -6,7 +6,7 @@ import { FiCheckCircle } from 'react-icons/fi';
 
 const LandingVThree = () => {
         return (
-                <main className='md:-mt-[200px]'>
+                <main className='md:-mt-[200px] mb-20'>
                         <div className="flex justify-center items-center flex-col md:flex-row mt-0 relative  min-h-screen bg-[#FFFFFF] overflow-hidden  md:px-16 py-0">
 
 

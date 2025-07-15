@@ -5,7 +5,7 @@ import { FaArrowRight } from 'react-icons/fa';
 const WorkManagement = () => {
         return (
                 <main>
-                        <div className="flex flex-col md:flex-row items-center relative w-full min-h-screen bg-[#FFFFFF] overflow-hidden px-4 md:px-16 py-10">
+                        <div className="flex flex-col md:flex-row items-center relative w-full min-h-screen bg-[#FFFFFF] overflow-hidden px-4 md:px-16 py-10 ">
 
                                 {/* BACKGROUND Background */}
                                 <div className="absolute top-40 left-0 w-full flex justify-start z-[10] pointer-events-none">
